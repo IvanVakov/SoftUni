@@ -1,2 +1,1 @@
-# SoftUni
-This is a repo from software university
+SoftUni Repository: A collection of my coursework and tasks from SoftUni, the university where I am currently studying. Here, I upload and organize all of my assignments, projects, and exercises, showcasing my progress and skills development throughout my academic journey.
